@@ -9,8 +9,8 @@
 ### 🎯 Ziele
 * **Echtzeit-Tracking:** Automatisches Zählen von Wiederholungen an Kraftgeräten direkt während des Satzes.
 * **Leistungsanalyse:** Messung der Bewegungsgeschwindigkeit für *Velocity Based Training* (VBT).
-* **C# End-to-End:** Vollständige Umsetzung in C# – vom Mikrocontroller (**nanoFramework**) bis zur App (**MAUI**).
-* **Skalierbarkeit:** Unterstützung mehrerer Sensoren gleichzeitig durch eindeutige BLE-Identifikatoren.
+* **Mobile App:** .NET MAUI Blazor Hybrid (C# / Razor / HTML / CSS).
+
 
 ### 🛠️ Komponenten
 * **Controller:** **ESP32-S2 Mini** – Kompakte Recheneinheit mit Bluetooth Low Energy (BLE).
@@ -26,8 +26,7 @@
 ### 🎯 Goals
 * **Real-Time Tracking:** Automatic repetition counting for weight stack machines.
 * **Performance Analytics:** Measuring movement velocity for *Velocity Based Training* (VBT).
-* **C# End-to-End:** Built entirely with C# – from firmware (**nanoFramework**) to app (**MAUI**).
-* **Scalability:** Support for multiple sensors via unique BLE identification.
+* **Mobile App:** .NET MAUI Blazor Hybrid (C# / Razor / HTML / CSS).
 
 ### 🛠️ Components
 * **Controller:** **ESP32-S2 Mini** – Compact MCU with integrated Bluetooth Low Energy (BLE).
